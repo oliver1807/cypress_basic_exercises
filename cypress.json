@@ -1,0 +1,9 @@
+{
+    "viewportWidth" : 1024,
+    "viewportHight": 768,
+    "defaultCommandTimeout": 10000,
+    "baseUrl": "http://automationpractice.com/",
+    "testFiles": "**/*.feature"
+    
+
+}
